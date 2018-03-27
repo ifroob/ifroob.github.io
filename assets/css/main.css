@@ -1594,16 +1594,16 @@
 		}
 
 	h2 {
-		font-size: 2em;
+		font-size: 1.5em;
 		letter-spacing: -1px;
 	}
 
 		h2.alt {
-			color: #888;
+			color: #00ff00;
 		}
 
 			h2.alt strong {
-				color: #666;
+				color: #00ff00;
 			}
 
 	h3 {
@@ -2153,7 +2153,7 @@
 		}
 
 			#main > section.dark {
-				color: #ddd;
+				color: #111;
 				color: rgba(255, 255, 255, 0.75);
 			}
 
@@ -2183,7 +2183,7 @@
 
 			#main > section.one {
 				background-color: #81918E;
-				background-image: url("../../images/banner2.jpg");
+				background-image: url("../../images/banner4.png");
 			}
 
 			#main > section.two {
