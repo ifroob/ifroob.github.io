@@ -1563,8 +1563,8 @@
 
 	body {
 		background: #fff;
-		font-family: 'Source Sans Pro', monospace;
-		font-size: 19pt;
+		font-family: 'Baskerville', monospace;
+		font-size: 20pt;
 		font-weight: 300;
 		line-height: 1.75em;
 		color: #888;
@@ -2045,6 +2045,7 @@
 				#header .icons a:hover {
 					color: #fff;
 				}
+				
 
 	#logo {
 		position: relative;
