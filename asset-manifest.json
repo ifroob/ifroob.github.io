@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ifroob-portfolio/static/css/main.af4139ed.chunk.css",
+    "main.js": "/ifroob-portfolio/static/js/main.759fba57.chunk.js",
+    "main.js.map": "/ifroob-portfolio/static/js/main.759fba57.chunk.js.map",
+    "runtime-main.js": "/ifroob-portfolio/static/js/runtime-main.11bb0a25.js",
+    "runtime-main.js.map": "/ifroob-portfolio/static/js/runtime-main.11bb0a25.js.map",
+    "static/js/2.e3ddbf3a.chunk.js": "/ifroob-portfolio/static/js/2.e3ddbf3a.chunk.js",
+    "static/js/2.e3ddbf3a.chunk.js.map": "/ifroob-portfolio/static/js/2.e3ddbf3a.chunk.js.map",
+    "index.html": "/ifroob-portfolio/index.html",
+    "precache-manifest.e9299ee1d004568da14a406e544f8ef4.js": "/ifroob-portfolio/precache-manifest.e9299ee1d004568da14a406e544f8ef4.js",
+    "service-worker.js": "/ifroob-portfolio/service-worker.js",
+    "static/css/main.af4139ed.chunk.css.map": "/ifroob-portfolio/static/css/main.af4139ed.chunk.css.map",
+    "static/js/2.e3ddbf3a.chunk.js.LICENSE.txt": "/ifroob-portfolio/static/js/2.e3ddbf3a.chunk.js.LICENSE.txt",
+    "static/media/main.css": "/ifroob-portfolio/static/media/banner4.e06092d5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11bb0a25.js",
+    "static/js/2.e3ddbf3a.chunk.js",
+    "static/css/main.af4139ed.chunk.css",
+    "static/js/main.759fba57.chunk.js"
+  ]
+}
