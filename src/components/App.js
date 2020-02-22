@@ -151,8 +151,7 @@ const website = (
                             <a href='https://www.linkedin.com/in/brian-ta'>
                                 LinkedIn Profile
                             </a>{" "}
-                            since there's really nothing here! (sorry if you
-                            just came from there)
+                            since there's really nothing here!
                         </p>
 
                         <div class='row'>
@@ -218,12 +217,12 @@ const website = (
                             simply staggering to what it has been in the past.
                         </p>
                         <iframe
-                            class='image featured'
+                            class=''
                             src='https://embed.spotify.com/?uri=spotify%3Atrack%3A0870QNicMawQH2cnzBVZ3P'
                             allowtransparency='true'
                         ></iframe>
                         <iframe
-                            class='image featured'
+                            class=''
                             src='https://www.youtube.com/embed/FFxeUb8Y_lY'
                             allow='autoplay; encrypted-media;'
                         ></iframe>
